@@ -1,7 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=D1F6FFo&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&theme=default&animation=ScaleIn"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=D1F6FFo&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&theme=default&animation=ScaleIn"/>
+</div>
 
 <div align="center">
   <h3>🖥️ Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeahKim-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=fla&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
