@@ -38,10 +38,4 @@
   <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black"/>
 </div>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeahKim-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LeahKim-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LeahKim-dev&theme=dark&hide_border=true" />
-</div>
+
